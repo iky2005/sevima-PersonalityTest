@@ -1,1 +1,1 @@
-# sevima-EducationAi
+# sevima-PersonalityTest
